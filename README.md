@@ -21,7 +21,7 @@ Download these three multipart 7z archives (total size is 55.7MB):
 [Sakura Wars - Columns 2 (J) T+Eng v1.1 ateam (TOSEC GDI patch).7z.002](https://github.com/tjanas/SakuraWarsColumns2-English-gdi-xdelta/raw/main/Sakura%20Wars%20-%20Columns%202%20(J)%20T%2BEng%20v1.1%20ateam%20(TOSEC%20GDI%20patch).7z.002)  
 [Sakura Wars - Columns 2 (J) T+Eng v1.1 ateam (TOSEC GDI patch).7z.003](https://github.com/tjanas/SakuraWarsColumns2-English-gdi-xdelta/raw/main/Sakura%20Wars%20-%20Columns%202%20(J)%20T%2BEng%20v1.1%20ateam%20(TOSEC%20GDI%20patch).7z.003)  
 
-After extracting the 7z archive, apply the included xdelta patch to `track03.bin` from `Hanagumi Taisen Columns 2 v1.000 (1999)(Sega)(JP)[!]` in the TOSEC GDI set:
+After extracting the 7z archive, apply the included xdelta patch to `track03.bin` from `Hanagumi Taisen Columns 2 v1.000 (1999)(Sega)(JP)[!]` in the [TOSEC](https://www.tosecdev.org/) GDI set:
 
 ```
 Source:
