@@ -24,6 +24,16 @@ Download these three multipart 7z archives (total size is 55.7MB):
 After extracting the 7z archive, apply the included xdelta patch to `track03.bin` from `Hanagumi Taisen Columns 2 v1.000 (1999)(Sega)(JP)[!]` in the [TOSEC](https://www.tosecdev.org/) GDI set:
 
 ```
+<game name="Hanagumi Taisen Columns 2 v1.000 (1999)(Sega)(JP)[!]">
+	<description>Hanagumi Taisen Columns 2 v1.000 (1999)(Sega)(JP)[!]</description>
+	<rom name="Hanagumi Taisen Columns 2 v1.000 (1999)(Sega)(JP)[!].gdi" size="87" crc="468c1495" sha1="980036e44ad9d694ea1699cd05c86ccd0c894c47" md5="346fea58ab1a55c577138c5b04319157"/>
+	<rom name="track01.bin" size="1058400" crc="5504d937" sha1="6c047d255475f0a2f69750ccf99fcd5d300ee03b" md5="bc9705193d44fe615854e9ade6089e26"/>
+	<rom name="track02.raw" size="14652960" crc="03fb25fd" sha1="7051a0791bc11feb1e0fd737366e204de63312c8" md5="98d912d36b179dc5d2386e41b72ffbc9"/>
+	<rom name="track03.bin" size="1185760800" crc="07bbfe5b" sha1="124fcd001b835b0affbf5b3ebc2a9e87978ee4aa" md5="4ca5e50e56e64f11be0faeb6fc447877"/>
+</game>
+```
+
+```
 Source:
 Name: track03.bin
 Size: 1185760800 bytes
