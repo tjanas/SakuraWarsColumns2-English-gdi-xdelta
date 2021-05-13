@@ -1,7 +1,7 @@
 Sakura Wars: Columns 2 xdelta patch (Dreamcast TOSEC GDI)
 ============================================
 
-Based on the [Windows patch](https://github.com/DerekPascarella/SakuraWarsColumns2-EnglishPatchDreamcast) created by Derek Pascarella.
+Based on the [Windows patch](https://github.com/DerekPascarella/SakuraWarsColumns2-EnglishPatchDreamcast) created by [Derek Pascarella](https://twitter.com/DerekPascarella).
 
 This patch can be used on any operating system (not just Windows).
 
